@@ -1,4 +1,4 @@
-# 👩‍💻 Oi, eu sou a Amanda Bockmann!  
+# 👩‍💻 Oi, eu sou Amanda Böckmann!  
 
 Bem-vindo(a) ao meu GitHub 🚀  
 
