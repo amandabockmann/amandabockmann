@@ -29,6 +29,6 @@ Bem-vindo(a) ao meu GitHub 🚀
 ## 🌍 Onde me encontrar  
 📫 [Email](mailto:amandabockmann@gmail.com)  
 💼 [LinkedIn](https://linkedin.com/in/amanda-bockmann/)  
-🐙 [GitHub](https://github.com/amandabockmann)  
+  
 
 ---
